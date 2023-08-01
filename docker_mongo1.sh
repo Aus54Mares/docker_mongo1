@@ -1,5 +1,5 @@
 
-docker pull mongo:4.0.27 
+docker pull mongo:4.0.27   5x.
 
 mkdir /data1
 
